@@ -26,7 +26,7 @@ This project explores a Diwali season sales dataset from a retail store using Py
 
 ## 📊 Key Insights
 
-- **Male customers** spend more than females.
+- **Female customers** spend more than males.
 - Age group **26–35** contributes the highest purchase volume.
 - **Tier B cities** show maximum engagement and purchases.
 - **Occupation and Marital Status** also influence spending patterns.
